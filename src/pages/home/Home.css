@@ -1,0 +1,12 @@
+.heroHome-img {
+    height: 90vh;
+    background-image: url('../../assets/banner.png');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    position: relative;
+}
+.heroHome-content {
+    position: absolute;
+    top: 60%;
+}

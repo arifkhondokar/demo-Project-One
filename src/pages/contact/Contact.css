@@ -1,0 +1,12 @@
+.heroContact-img {
+    height: 70vh;
+    background-image: url('../../assets/contactImage.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.heroContact-content {
+    position: absolute;
+    top: 50%;
+}

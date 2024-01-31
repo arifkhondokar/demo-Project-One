@@ -1,0 +1,12 @@
+.heroAbout-img {
+    height: 70vh;
+    background-image: url('../../assets/aboutImage.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.heroAbout-content {
+    position: absolute;
+    top: 50%;
+}
